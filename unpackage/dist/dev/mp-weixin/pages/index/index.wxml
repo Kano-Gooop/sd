@@ -1,0 +1,1 @@
+<view><view class="top"><view class="search-box"><image src="../../static/icons/zoom.png"></image>搜索</view><view class="bell"><image src="/static/icons/bell.png"></image><view class="red-dot"></view></view></view></view>
