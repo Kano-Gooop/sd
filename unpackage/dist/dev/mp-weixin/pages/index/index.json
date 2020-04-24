@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "山洞文创",
-  "usingComponents": {}
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
 }
