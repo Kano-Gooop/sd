@@ -14,7 +14,7 @@
 
 <style>
 	/*每个页面公共css */
-	* {
+	.page {
 		font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
 		line-height: 1;
 	}
